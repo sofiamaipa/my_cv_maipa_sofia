@@ -96,7 +96,13 @@ a {
   text-align: left;
 }
 
-.seminars{
+.seminars {
+  margin-left: -10px;
+  width: 108%;
+  text-align: left;
+}
+
+.projects {
   margin-left: -10px;
   width: 108%;
   text-align: left;
